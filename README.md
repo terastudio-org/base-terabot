@@ -21,7 +21,8 @@
 ## 📦 Instalasi
 
 ```bash
-npm install github:terastudio-org/base-resbot
+npm install github:terastudio-org/base-terabot
 ```
+
 
 
