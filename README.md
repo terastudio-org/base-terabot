@@ -4,16 +4,6 @@
   <b>Library WhatsApp Bot berbasis Baileys — dibuat untuk kecepatan, stabilitas, dan fleksibilitas.</b>
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/base-resbot">
-    <img src="https://img.shields.io/npm/v/base-resbot.svg?style=for-the-badge&logo=npm" alt="NPM Version">
-  </a>
-  <a href="https://github.com/autoresbot/base-resbot">
-    <img src="https://img.shields.io/github/stars/autoresbot/base-resbot.svg?style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/autoresbot/base-resbot/issues">
-    <img src="https://img.shields.io/github/issues/autoresbot/base-resbot.svg?style=for-the-badge" alt="GitHub Issues">
-  </a>
 </p>
 
 ---
@@ -31,6 +21,7 @@
 ## 📦 Instalasi
 
 ```bash
-npm install guthub:terastudio-org/base-resbot
+npm install github:terastudio-org/base-resbot
 ```
+
 
